@@ -60,3 +60,5 @@ exclude:
 # (Used only for GitHub deployments)
 # See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 remote_theme: minicomp/ed
+
+theme: jekyll-theme-cayman
